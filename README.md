@@ -3,7 +3,13 @@
 </br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=0E2F3E&background=EE130600&center=true&width=1000&height=100&lines=Hello%2C+My+name+is+Wando+Vilar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=0E2F3E&background=EE130600&center=true&width=1000&height=100&lines=Hello%2C+My+name+is+Wando+Villar.)](https://git.io/typing-svg)
+
+<div align="center">
+<h3> Graduado em Gestão Financeira e atualmente cursando Análise e Desenvolvimento de Sistemas pelo SENAC. Tenho sólida experiência no setor administrativo e estou em transição de carreira para atuar como Analista de Banco de Dados.
+
+Estou sempre em busca de aprimorar minhas habilidades com as mais recentes ferramentas de análise de dados, visando oferecer soluções que proporcionem praticidade e valor para clientes e usuários. </h3>
+</div>
 
 
 <br>
