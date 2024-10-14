@@ -76,6 +76,12 @@ Estou sempre em busca de aprimorar minhas habilidades com as mais recentes ferra
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/42f79d34-a1b9-47c8-8349-91003d69d38e">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/9144f318-3208-4d44-97b6-d1d4ba110447">
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/3f937af2-59d4-4a32-aee4-6a28e46c8072">
+
 
 </div>
 
